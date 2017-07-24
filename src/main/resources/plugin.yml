@@ -1,0 +1,7 @@
+name: TNTCrafter
+version: ${project.version}
+main: net.xornick.tntcrafter.TNTCrafter
+author: XorNick
+commands:
+   tntcraft:
+      description: Fast crafts TNT.
